@@ -34,6 +34,7 @@ todo> python manage.py runserver
 ## Usage 
 ## 1) In order to log in to the server, we need to set a username and password and create an account. To do this, enter this code into the command line.
 <img src="https://user-images.githubusercontent.com/93276431/149786035-0e9b8dd3-55da-4aa5-95c8-3942d01a79f6.png" width="400">
+
 ## 2) Next, go to our server and log in using our username and password. Also, in order to enter the login page, we need to register admin at the end of our address http://127.0.0.1:8000/admin/login/admin/
 <img src= "https://user-images.githubusercontent.com/93276431/149786339-d377afc8-67df-4957-b5df-66d37dff3ee2.png" width="500">
 <img src= "https://user-images.githubusercontent.com/93276431/150193371-a980cd06-a139-4416-a53a-13c0477b9610.png" width="500">
