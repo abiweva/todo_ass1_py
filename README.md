@@ -46,5 +46,6 @@ todo> python manage.py runserver
 
 ## 4) When completing a task, you can delete it from the list.
 <img src= "https://user-images.githubusercontent.com/93276431/150193664-b6da0faf-b304-4629-94a8-8daa130fef1c.png" width="500">
+
 ## 5) For this project i used PostgreSql.
 <img src= "https://user-images.githubusercontent.com/93276431/150193803-425e78a8-3029-4386-b46e-f46daa53bfcb.png" width="500">
